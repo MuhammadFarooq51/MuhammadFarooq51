@@ -45,10 +45,6 @@ Hello — I'm Muhammad Farooq. I'm currently learning Data Science and SQL. This
 
 ## Contact
 - GitHub: https://github.com/MuhammadFarooq51
-- (Optional) Add email or other contact details here if you want to share them
 
----
 
-- personalize this README with more details (education, timeline, specific tools),
-- create a repository structure (folders and example files),
-- or draft your first project README and a starter notebook or SQL file.
+
