@@ -4,7 +4,7 @@ Hello — I'm Muhammad Farooq. I'm currently learning Data Science and SQL. This
 
 ## About me
 - Name: Muhammad Farooq
-- Currently learning: Data Science, SQL
+- Currently learning: Data Science
 - GitHub: @MuhammadFarooq51
 
 ## Current focus
