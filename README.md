@@ -38,13 +38,6 @@ Hello — I'm Muhammad Farooq. I'm currently learning Data Science and SQL. This
 - "Python for Data Analysis" by Wes McKinney (pandas)
 - Coursera / edX courses on Data Science fundamentals
 
-## How to use this repo
-- Keep each project in its own folder with a README describing dataset, steps, and conclusions
-- Store SQL scripts in a `sql/` directory, notebooks in `notebooks/`, and any small datasets in `data/` (or provide links to larger datasets)
-- Add a `notes/` folder for short tips, query snippets, and useful commands
-
-## Contact
-- GitHub: https://github.com/MuhammadFarooq51
 
 
 
