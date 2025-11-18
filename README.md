@@ -1,6 +1,6 @@
 # Muhammad Farooq
 
-Hello — I'm Muhammad Farooq. I'm currently learning Data Science and SQL. This repository (or profile) is where I keep notes, practice projects, and examples as I learn and build experience.
+Hello — I'm Muhammad Farooq. I'm currently learning Data Science and SQL. This profile is where I keep notes, practice projects, and examples as I learn and build experience.
 
 ## About me
 - Name: Muhammad Farooq
