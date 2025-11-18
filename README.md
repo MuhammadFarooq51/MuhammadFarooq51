@@ -16,8 +16,8 @@ Hello — I'm Muhammad Farooq. I'm currently learning Data Science and SQL. This
 
 ## Skills (in progress)
 - Python (pandas, numpy)
-- SQL (SELECT, JOINs, GROUP BY, window functions)
-- Data visualization basics
+- SQL / My SQL
+- Data visualization basics(Matplotlip, seaborn)
 - Basic machine learning concepts (linear regression, classification)
 
 ## Projects (ideas / placeholders)
